@@ -1,6 +1,7 @@
 <head>
 
-  <h1>Heeey! I'm Henrique Ramos and this is my profile! </h1>
+  <h2>\\Heeey! I'm Henrique Ramos and this is my profile!  <br><br>
+    \Eai! meu nome é Henrique Ramos e esse é meu perfil!</h2>
   
   
 <div>
@@ -11,18 +12,19 @@
     <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRMS&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+  <hr>
   <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
+   <hr>
   </head>
  <br>
  <hr>
   <div> 
- <h2> \\\ Minhas redes sociais abaixo! </h2>
+ <h2> \\\ My social media below! \  Minhas redes sociais abaixo! </h2>
  <br>
 
   
@@ -32,6 +34,6 @@
   <a href="https://www.behance.net/henriqueramosdsg" target="_blank"> <img src=https://thumbsnap.com/i/DK4K6HwW.png target="_blank"></a>                      <!-- Behance -->
 
 </div>
-  
+ <hr>  
   
 
