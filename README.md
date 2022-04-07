@@ -1,15 +1,13 @@
-<head>
 
-  <h2>\\Heeey! I'm Henrique Ramos and this is my profile!  <br><br>
-    \Eai! meu nome é Henrique Ramos e esse é meu perfil!</h2>
+  <h2>\\ Eai! meu nome é Henrique Ramos, Analista de Service Desk e Desenvolvedor Web! </h2> <br>
+  
+    
   
   
-<div>
-
+<div align="center">
   <a href="https://github.com/HenriqueRMS">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=HenriqueRMS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRMS&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueRMS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRMS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 
@@ -19,11 +17,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-  </head>
  <br>
  <hr>
   <div> 
- <h2> \\\ My social media below! \  Minhas redes sociais abaixo! </h2>
+ <h2> \\ Minhas redes sociais abaixo! </h2>
  <br>
 
   
@@ -33,6 +30,6 @@
   <a href="https://www.behance.net/henriqueramosdsg" target="_blank"> <img src=https://thumbsnap.com/i/DK4K6HwW.png target="_blank"></a>                      <!-- Behance -->
 
 </div>
- <hr>  
+
   
 
