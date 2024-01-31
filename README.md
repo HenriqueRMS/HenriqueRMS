@@ -24,7 +24,7 @@
  <br>
 
   
-  <a href="https://instagram.com/henryquerms/" target="_blank"><img src="https://thumbsnap.com/i/169wrGm7.png" target="_blank"></a>                           <!-- Insta -->
+  <a href="https://instagram.com/henriquermss/" target="_blank"><img src="https://thumbsnap.com/i/169wrGm7.png" target="_blank"></a>                           <!-- Insta -->
   <a href = "mailto:henriqueramos.dev2022@gmail.com"><img src="https://thumbsnap.com/i/rXTPh9v4.png" target="_blank"></a>                                     <!-- Gmail -->
   <a href="https://www.linkedin.com/in/henrique-ramos-595653212/" target="_blank"><img src="https://thumbsnap.com/i/WxChJmJq.png" target="_blank"></a>        <!-- Linkedin -->
   <a href="https://www.behance.net/henriqueramosdsg" target="_blank"> <img src=https://thumbsnap.com/i/DK4K6HwW.png target="_blank"></a>                      <!-- Behance -->
