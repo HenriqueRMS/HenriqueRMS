@@ -1,6 +1,7 @@
 
-## Eai! meu nome é Henrique Ramos, Web Designer e Ilustrador nas horas vagas! 
-  
+## Eai! meu nome é Henrique Ramos, Desenvolvedor Web e Ilustrador nas horas vagas! 
+
+#Meu github secúndario: https://github.com/hazzardRMS
     
   
   
